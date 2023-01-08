@@ -1,0 +1,22 @@
+{
+  "articles":[
+{
+      "title": "Falcors page",
+      "imgUrl": "https://galemie.github.io/cruise_v3_pictures/casino.jpg",
+      "stack": ["HTML"],
+      "link": "http://www.example.com/falcor"
+   },
+   {
+       "title": "Jem and Us Portfolio",
+     "imgUrl": "https://galemie.github.io/cruise_v3_pictures/casino.jpg",
+       "stack": ["React"],
+      "link": "http://www.example.com/jem"
+   },
+   {
+      "title": "Jewels By Garnet",
+    "imgUrl":"https://galemie.github.io/cruise_v3_pictures/casino.jpg",
+      "stack": ["Python"],
+     "link" : "http://www.example.com/garnet"
+   }
+        ]
+}
