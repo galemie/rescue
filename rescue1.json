@@ -1,21 +1,21 @@
 {
   "articles":[
 {
-      "title": "Italian Greyhound",
+      "name": "Italian Greyhound",
       "imgUrl": "https://images.dog.ceo/breeds/greyhound-italian/n02091032_5383.jpg",
-      "stack": ["3 years old, very friendly lady"],
+      "desc": ["3 years old, very friendly lady"],
       "link": "http://www.example.com/italian"
    },
    {
-       "title": "Labradoodle",
+       "name": "Labradoodle",
      "imgUrl": "https://images.dog.ceo/breeds/labradoodle/labradoodle-forrest.jpg",
-       "stack": ["4 years old, well behave boy"],
+       "desc": ["4 years old, well behave boy"],
       "link": "http://www.example.com/labradoodle"
    },
    {
-      "title": "Border Terrier",
+      "name": "Border Terrier",
     "imgUrl":"https://images.dog.ceo/breeds/terrier-border/n02093754_7788.jpg",
-      "stack": ["8 years old boy, can not stay with family with kids"],
+      "desc": ["8 years old boy, can not stay with family with kids"],
      "link" : "http://www.example.com/terrier"
    }
         ]
