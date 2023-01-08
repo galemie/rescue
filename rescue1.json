@@ -17,6 +17,29 @@
     "imgUrl":"https://images.dog.ceo/breeds/terrier-border/n02093754_7788.jpg",
       "desc": ["8 years old boy, can not stay with family with kids"],
      "link" : "http://www.example.com/terrier"
+   },
+    {
+      "name": "Airdale Terrier",
+    "imgUrl":"https://images.dog.ceo/breeds/airedale/n02096051_517.jpg",
+      "desc": ["4 years old boy, I love kids"],
+     "link" : "http://www.example.com/airdale"
+   },
+    {
+      "name": "Samoyed",
+    "imgUrl":"https://images.dog.ceo/breeds/samoyed/n02111889_17192.jpg",
+      "desc": ["4 years old girl, I love walking"],
+     "link" : "http://www.example.com/samoyed"
+   },
+    {
+      "name": "Welsh Spaniel",
+    "imgUrl":"https://images.dog.ceo/breeds/spaniel-welsh/n02102177_2755.jpg",
+      "desc": ["2 years old boy, can not stay in one place, I neeed ruuuun"],
+     "link" : "http://www.example.com/spaniel"
+   },{
+      "name": "Komondor",
+    "imgUrl":"https://images.dog.ceo/breeds/komondor/n02105505_3784.jpg",
+      "desc": ["6 years old boy, I love swimming"],
+     "link" : "http://www.example.com/komondor"
    }
         ]
 }
